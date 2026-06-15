@@ -1,0 +1,1 @@
+# manufacturing-loss-monitoring
