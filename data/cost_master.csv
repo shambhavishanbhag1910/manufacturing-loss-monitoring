@@ -1,0 +1,10 @@
+machine_id,downtime_cost_per_minute,scrap_cost_per_unit
+M01,602,585
+M02,770,256
+M03,571,170
+M04,1114,271
+M05,966,364
+M06,830,608
+M07,587,522
+M08,599,280
+M09,1161,458
